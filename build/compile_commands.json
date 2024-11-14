@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/adt/share/Project/7/build",
+  "command": "/usr/bin/g++   -I/home/adt/share/Project/7/include   -Wall -g   -o CMakeFiles/my_cmake_exe.dir/main.cpp.o -c /home/adt/share/Project/7/main.cpp",
+  "file": "/home/adt/share/Project/7/main.cpp"
+},
+{
+  "directory": "/home/adt/share/Project/7/build",
+  "command": "/usr/bin/g++   -I/home/adt/share/Project/7/include   -Wall -g   -o CMakeFiles/my_cmake_exe.dir/src/Gun.cpp.o -c /home/adt/share/Project/7/src/Gun.cpp",
+  "file": "/home/adt/share/Project/7/src/Gun.cpp"
+},
+{
+  "directory": "/home/adt/share/Project/7/build",
+  "command": "/usr/bin/g++   -I/home/adt/share/Project/7/include   -Wall -g   -o CMakeFiles/my_cmake_exe.dir/src/Solider.cpp.o -c /home/adt/share/Project/7/src/Solider.cpp",
+  "file": "/home/adt/share/Project/7/src/Solider.cpp"
+}
+]
