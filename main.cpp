@@ -1,7 +1,7 @@
 #include "Gun.h"
 #include "Solider.h"
 #include <iostream>
-
+//aaa
 void test()
 {
     Solider sanduo("xusanduo");
